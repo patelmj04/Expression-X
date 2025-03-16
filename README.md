@@ -81,17 +81,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Developed by [Your Name] | March 2025
+Developed by [Mit Patel] | March 2025
 ```
 
-### Notes:
-- Replace `https://github.com/yourusername/Expression-X.git` with your actual repository URL if you host it online.
-- Add your name or handle in the "Developed by" section.
-- If you choose a different name (e.g., "EmoteSense"), update all instances of "Expression-X" accordingly.
-- You can create a separate `LICENSE` file with the MIT License text if you want to include it.
-
-To use this:
-1. Save it as `README.md` in your project directory.
-2. Customize it as needed (e.g., add screenshots with `<img src="screenshot.png" alt="Expression-X Screenshot">` if you have them).
-
-Let me know if you'd like to tweak anything specific!
